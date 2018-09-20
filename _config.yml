@@ -1,8 +1,8 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: ITCobber
+subtitle: 上善若水，人淡如菊
+welcome_message: <a href="XXXX" target="_blank">关注微信</a>
+description: 学无长幼，达者为先。
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
@@ -17,13 +17,14 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 博客
+    description: 访问博客
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
+    - {title: 简历, description: 团队简历, url: 'http://project.onevcat.com'}
+    - {title: 关于, description: 了解更多关注我, url: 'http://example.com'}
+    - {title: 更多, description: 更多, url: 'http://example.com'}
 
 # Pagination
 gems: [jekyll-paginate]
@@ -32,16 +33,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
-    # duoshuo: 
-    
+    disqus: ITCobber
+    # duoshuo:
+
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    #weibo: onevcat
+    github: ITCobber
+    twitter: ITCobber
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: lph_php@163.com
 
 # Google Analytics
 ga:
