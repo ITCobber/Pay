@@ -31,7 +31,10 @@ date: 2018-09-20 15:32:24.000000000 +09:00
      二、其它常见错误
     [错误信息处理] (https://pay.weixin.qq.com/wiki/doc/api/H5_sl.php?chapter=15_4)
 ---
-#### 支付
+
+
+
+##### 支付
 
 ```bash
 $ git clone https://github.com/onevcat/vno-jekyll.git your_site  GOPATH
